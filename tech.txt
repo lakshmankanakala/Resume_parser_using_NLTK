@@ -1,0 +1,116 @@
+TECHNICAL SKILLS
+
+
+
+Configuration Management Tools
+
+Chef,  Ansible
+
+Continuous Integration Tools
+
+Jenkins
+
+Operating Systems
+
+Redhat5/6, CentOS 5/6 and Ubuntu
+
+Databases
+
+MySql
+
+Cloud Services
+
+AWS
+
+Version Control/Repository
+
+Git and GitHub
+
+Application Servers
+
+Tomcat
+
+Web Servers
+
+Apache, Nginx
+
+Scripting Languages
+
+ShellScripting, Python, 
+
+Virtualization
+
+ Docker
+
+Command Line Editors
+
+Vim, Vi
+
+Web Technologies
+
+HTML
+
+Monitoring Tools
+
+Nagios, cloudwatch
+
+
+
+TECHNICAL SKILLS
+
+
+
+Configuration Management Tools
+
+Chef,  Ansible
+
+Continuous Integration Tools
+
+Jenkins
+
+Operating Systems
+
+Redhat5/6, CentOS 5/6 and Ubuntu
+
+Databases
+
+MySql
+
+Cloud Services
+
+AWS
+
+Version Control/Repository
+
+Git and GitHub
+
+Application Servers
+
+Tomcat
+
+Web Servers
+
+Apache, Nginx
+
+Scripting Languages
+
+ShellScripting, Python, 
+
+Virtualization
+
+ Docker
+
+Command Line Editors
+
+Vim, Vi
+
+Web Technologies
+
+HTML
+
+Monitoring Tools
+
+Nagios, cloudwatch
+
+
+

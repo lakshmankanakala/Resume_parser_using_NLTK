@@ -1,0 +1,288 @@
+Biswanath Rout				
+
+Email Id: biswanathrout009@gmail.com	
+
+Cell: +91-9966086787                                                                                                DevOps Consultant
+
+
+
+
+
+
+
+PROFESSIONAL SUMMARY
+
+DevOps Consultant with 3.9+years of experience in  Maven, Git, GitHub, Jenkins, Chef, AWS, Python, Shell scripting 
+
+Working experience in continuous integration using Git, GitHub, Maven, Jenkins.
+
+Understanding the client environment, Administrating and creating solutions using AWS services, CI/CD, GIT.
+
+Environment provisioning solutions using Docker.
+
+Working experience in continuous delivery, Infrastructure automation using Chef.
+
+Hands on experience in creating Chef Recipes, cookbooks for cloud automation (AWS) and Application deployment automation.
+
+ Working experience in continuous delivery, Infrastructure automation using Ansible
+
+Good experience in Amazon Web Services (AWS), Creating EC2 Instances and configuring all necessary services.
+
+Cloud Watch for monitoring server metrics, creating alarms & integrating with auto scaling.
+
+Managed Amazon Web Services like EC2, S3 bucket, RDS, EBS, ELB, Auto-Scaling, AMI, IAM through AWS Console 
+
+Having good knowledge in Chef Enterprise Hosted as well as On-Premise, Installed Workstation, Bootstrapped Nodes, Wrote Recipes and Cookbooks and upload them to chef-server. 
+
+Managed and monitored the server and network infrastructure using Nagios
+
+Working experience on operating systems like Linux, Unix etc.
+
+Good knowledge of programming concept, OS related issues, Server configuration and builds and release process.
+
+Ability to learn and master new technologies and also to deliver outputs in short deadlines.
+
+
+
+EDUCATION DETAILS
+
+
+
+Completed M.C.A (Master in computer Application), with First class in 2013 from Regional College of Management Autonomous, Bhubaneswar under B.P.U.T, Odisha.
+
+Completed BSc (Phy Hons), from Ispat college, Rourkela  under Sambalpur  University in the year 2010.
+
+
+
+
+
+
+
+
+
+TECHNICAL SKILLS
+
+
+
+Configuration Management Tools
+
+Chef,  Ansible
+
+Continuous Integration Tools
+
+Jenkins
+
+Operating Systems
+
+Redhat5/6, CentOS 5/6 and Ubuntu
+
+Databases
+
+MySql
+
+Cloud Services
+
+AWS
+
+Version Control/Repository
+
+Git and GitHub
+
+Application Servers
+
+Tomcat
+
+Web Servers
+
+Apache, Nginx
+
+Scripting Languages
+
+ShellScripting, Python, 
+
+Virtualization
+
+ Docker
+
+Command Line Editors
+
+Vim, Vi
+
+Web Technologies
+
+HTML
+
+Monitoring Tools
+
+Nagios, cloudwatch
+
+
+
+WORK EXPERIENCE
+
+
+
+Working as DevOps Consultant  for   Indecomm global services from Dec2015to till date.
+
+Worked as a Software Engineer for Nivaata Systems  May 2014 to Nov 2015
+
+      
+
+Project No: 3 
+
+
+
+Project			: Infoarmor
+
+Client			: BHHC, USA
+
+Environment		: GIT, Maven , Jenkins,  Tomcat, Chef
+
+Operating System     	: Ubuntu, Centos, Redhat
+
+
+
+Description:
+
+
+The purpose of this project is to implement a middleware software layer that will ingest data from different Social media like: Twitter, Reddit, Stack overflow etc. and store them in an easy to consume and identify breach data (compromised information) posted on DarkWeb. This implementation will work with three data streams: Realtime, Harvest and Historical PowerTrack APIs.
+
+
+
+Responsibilities: 
+
+
+
+	Creating CI/CD pipelines by integrating Git, GitHub, maven, Jenkins.
+
+Writing Chef Recopies, Cookbooks in Chef for Application Deployment automation, Cloud Infrastructure Automation.
+
+Automating build process used for Java, Mule and Middleware applications using tools / automation framework like Jenkins 
+
+Creating continuous deployment pipeline by creating component processes, Applications and adding environments into  handling deployments using code pipeline and AWS code deployment for various deployment scenarios like  Tomcat deployment, Multiple  applications deployment.
+
+Involved in Release management like planning, scheduling, and deploying Releases
+
+Experience in AWS provisioning by creating EC2 Instances and configuring all necessary services like Security, EBS, and S3.
+
+Involved in job scheduling for daily and nightly build activity using Jenkins.
+
+Automating build process for creating JAR/WAR artifacts using Ant and Maven.
+
+Creating new jobs in Jenkins and managing the build related issues. 
+
+Coordinating with the Development team to fix the Build related issues.
+
+Involved in POC projects for various clients.
+
+
+
+Project No: 2
+
+
+
+ Project:  G-Help Guide
+
+ Environment:  GIT, Maven, Jenkins, Apache tomcat, shell scripting.
+
+ Operating System:   Ubuntu
+
+
+
+Description:
+
+
+It is Agile based help guide development tool (web based application), which will be used to build professional user guide for your product in agile fashion. Help Guide creation using G-Scrum API based on Project Management Data. Create the Help guides based on API Selection for the existing projects using G-Scrum API & Excel Import mechanism. Content Writers will do necessary
+changes to make professional help guides and publishing those into respective Environments. In this Application End users will get end to end functionality with how to use system in right manner with FAQ's using Professional help.
+
+
+
+Responsibilities:
+
+
+
+Involved in DevOps POC’s by integrating Source controls tools, Build Tools, CI tools and CD tools to start new DevOps services in organization
+
+Built up CI/CD pipeline using Git, ant, maven, Jenkins for JAVA and Middleware applications.  
+
+Creating new jobs in Jenkins and managing the build related issues. 
+
+Coordinating with the Development team to fix the Build related issues.
+
+Creating various POC’s of CI/CD pipelines by integrating source control tools GIT, GitHub, Build tools like Ant and Maven, CI tool like Jenkins and Deployment automation tool like Chef 
+
+ Writing recipes using RUBY DSL, creating cookbooks for infrastructure automation, application deployment automation and managing automation.
+
+Given Demo to different clients on CI/CD pipelines to start DevOps services.
+
+Attended various trainings on GIT, Ant, Maven, and Jenkins to create DevOps POC’s.
+
+Good experience in Chef Infrastructure automation, infrastructure-as-a-code.
+
+Application deployment using system center configuration manager.
+
+
+
+
+
+
+
+Project No: 1
+
+
+
+Project: TELUS Prepaid and Post Paid solution 
+
+Environment:  UNIX
+
+Technologies: SQL, PL/SQL, UNIX (Linux-Red Hat, Solaris), Shell Scripting.
+
+Database: Oracle 10g, 11g
+
+Operating System:   Red Hat Linux
+
+
+
+Descriptions:
+
+
+
+One of the Leading Client in Canada is taking Crystal Billing for their solution of TELUS Prepaid & Postpaid, it consist modules of Reseller Management, Account Management, Package Modules, Item & Charge Management, Tax Management, Discount Management and Billing Processes. The Process starts with Creation of Packages for Prepaid & Postpaid Services for TELUS. Associate these packages in Customer account and Customer Accounts will be bind with Resellers and Resellers is having Limited Access of Billing System by the Reseller Web Self Care Portal & Resellers are in different Geographical Areas. Provisioning Actions will take place in IMS (IP Multimedia Subsystem) for every important action i.e. Customer Account creation, Reseller Account Creation, Start/Stop Billing for Customer Accounts, Change Package for customer accounts etc.
+
+
+
+Responsibility:
+
+
+
+Configuring Price plans using Pricing Center, managing customer prepaid & postpaid using Customer center. 
+
+Working on Remedy tickets based on priority basis and escalate it if necessary.
+
+Development of report according to the Business Analysis needs using Pl/Sql.
+
+Maintains like any Update in the existing reports i.e. the procedure or function level.
+
+Running the DTR (daily treasury report) manually in case of failure in auto run.
+
+Monitoring AUTOSYS job and analyzing any failed or not started job (if threshold time already reached).
+
+Deployed the fresh data from preproduction server to the production server.
+
+Analyzing any issue faced by business and providing them the required solutions.
+
+Involved in writing sql queries to validate data after loading to Oracle Database.
+
+Prioritization of requests for software changes and enhancements.
+
+Providing technical and functional support for all application related issues.
+
+
+
+PERSONAL PROFILE
+
+
+
+Name      		 :  Biswanath Rout
+
+Languages known 	 :  English, Hindi, Odia.

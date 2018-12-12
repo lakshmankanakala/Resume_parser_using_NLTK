@@ -1,0 +1,53 @@
+biswanath rout				
+email id: biswanathrout009@gmail.com	
+cell: +91-9966086787                                                                                                devops consultant
+professional summary
+environment provisioning solutions using docker.
+education details
+technical skills
+configuration management tools
+chef,  ansible
+continuous integration tools
+jenkins
+operating systems
+redhat5/6, centos 5/6 and ubuntu
+databases
+mysql
+cloud services
+aws
+version control/repository
+git and github
+application servers
+tomcat
+web servers
+apache, nginx
+scripting languages
+shellscripting, python, 
+virtualization
+ docker
+command line editors
+vim, vi
+web technologies
+html
+monitoring tools
+nagios, cloudwatch
+work experience
+      
+project no: 3 
+project			: infoarmor
+client			: bhhc, usa
+description:
+responsibilities: 
+project no: 2
+ project:  g-help guide
+ operating system:   ubuntu
+description:
+responsibilities:
+project no: 1
+environment:  unix
+database: oracle 10g, 11g
+operating system:   red hat linux
+descriptions:
+responsibility:
+personal profile
+name      		 :  biswanath rout
